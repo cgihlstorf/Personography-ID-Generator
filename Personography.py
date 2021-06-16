@@ -1,6 +1,6 @@
 #Reads a text file of names and converts each name into its own unique ID
 
-ignored_words=["de", "los", "don", "del", "dona", "y", "dn", "sn", "fra", "frai", "sto", "Señor", "la"]
+ignored_words=["de", "los", "don", "del", "dona", "y", "dn", "sn", "fra", "frai", "sto", "Señor", "la", "el"]
 
 #reads a file and adds each line as an element in a list of names
 def read_names(names_file):
