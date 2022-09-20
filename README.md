@@ -1,1 +1,1 @@
-This code reads a text file of names and creates unique IDs for each name.
+Creates unique indentifiers for individuals based on their names.
